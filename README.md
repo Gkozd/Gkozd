@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gkozd
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning RUST
-- 💞️ I’m looking to collaborate on entry lvl projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me github
 
 <!---
